@@ -11,6 +11,7 @@ To release a new version, please select a new version number (usually plus 1 to 
 
 Pending
 +++++++
+* `az aks upgrade`: Add `--k8s-support-plan` and `--tier` flag support to allow cluster support plan and tier configuration during cluster upgrade.
 
 20.0.0b6
 ++++++
